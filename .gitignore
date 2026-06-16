@@ -37,3 +37,5 @@ web-src/.well-known/
 
 # this template's e2e test directory
 temp-template-test
+
+.cursor
